@@ -13,3 +13,7 @@ public int add(int a, int b) {
 public int mult(int a, int b){ 
     return (a*b); //faulty code
 }
+
+public int div(int a, int b){
+	return (a/b);
+}
