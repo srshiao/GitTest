@@ -22,3 +22,6 @@ public int div(int a, int b){
 public int mod(int a, int b){
 	return (a%b);
 }
+public void printString (String s){
+	System.out.println(s);
+}
