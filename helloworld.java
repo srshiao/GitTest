@@ -1,5 +1,5 @@
 public static void main(String[] args){
-    System.out.println("Hello, world!"); //Sam forgot a semicolon;
+    System.out.println("Hello, world!"); 
 }
 
 public int minus(int a, int b){
@@ -11,7 +11,7 @@ public int add(int a, int b) {
 }
 
 public int mult(int a, int b){ 
-    return (a*b); //faulty code
+    return (a*b); 
 }
 
 public int div(int a, int b){
