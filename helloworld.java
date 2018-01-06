@@ -19,3 +19,7 @@ public int mult(int a, int b){
 public int div(int a, int b){
 	return (a/b);
 }
+
+public void printInt(int i){
+	System.out.println(i);
+}
