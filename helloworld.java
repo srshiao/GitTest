@@ -25,3 +25,6 @@ public int mod(int a, int b){
 public void printString (String s){
 	System.out.println(s);
 }
+public void printInt(int i){
+	System.out.println(i);
+}
