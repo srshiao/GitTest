@@ -28,3 +28,7 @@ public void printString (String s){
 public void printInt(int i){
 	System.out.println(i);
 }
+
+public int add(int a, int b, int c) {
+    return (a+b+c);
+}
