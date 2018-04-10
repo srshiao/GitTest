@@ -1,4 +1,4 @@
 //nice
 
-for i in numbers
+for i in range(0, 5)
 	return("Hello World, nice")
