@@ -32,3 +32,7 @@ public void printInt(int i){
 public int add(int a, int b, int c) {
     return (a+b+c);
 }
+
+public void printCompliment(){
+    System.out.println("You look so nice today!");
+}
